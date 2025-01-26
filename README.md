@@ -29,7 +29,7 @@ Each course is represented as an XML `<item>` element, with the following struct
 
 - **Title**: The course title.  
 - **Description**: A brief overview of the course.  
-- **Content**: The main body of the post, featuring HTML elements like images, videos, and “Learn More” links.  
+- **Content**: The main body of the post, featuring HTML elements like images, and links.  
 - **Metadata**: Post : type,categories,and tags.  
 - **SEO Optimization**: Includes meta tags for titles, descriptions, and images to improve search rankings.  
 
@@ -53,7 +53,7 @@ Each course is represented as an XML `<item>` element, with the following struct
 ## Usage Instructions  
 
 1. Download the XML files from this repository.  
-2. Use the WordPress Importer plugin or any XML-compatible tool to upload the files to your website.  
+2. Use the WordPress Importer or any XML-compatible tool to upload the files to your website.  
 3. Customize the posts to match your audience’s interests and branding.  
 4. Publish the content and watch your traffic grow!  
 
@@ -61,7 +61,7 @@ Each course is represented as an XML `<item>` element, with the following struct
 
 ## About the Author  
 
-Hi, I’m **Mo Alshafii**, a software engineer dedicated to creating tools that help people achieve their goals. Whether you're growing your online presence or sharing knowledge, I’m here to make the process easier for you.  
+Hi, I’m [Mo Alshafii](moalshafii.github.io/), a software engineer dedicated to creating tools that help people achieve their goals. Whether you're growing your online presence or sharing knowledge, I’m here to make the process easier for you.  
 
 ---
 
