@@ -1,10 +1,10 @@
-# 45K Udemy Course WordPress Posts  
+<h1 align="center">45K Udemy Course WordPress Posts</h1>
 
 <p align="center">
   <img src="image.png" alt="45K Udemy Course WordPress Posts" />
 </p>  
 
-## Motivation: Drive Traffic & Share Knowledge 🚀  
+## Share Knowledge & Drive Traffic & Make Money 🔥🚀  
 
 As a software engineer passionate about helping others succeed, I’ve created this repository to empower bloggers, website owners, and content creators. It includes **XML files for 45,000 Udemy courses**, formatted to integrate seamlessly with WordPress or other content management systems (CMS).  
 
